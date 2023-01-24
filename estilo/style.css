@@ -1,0 +1,58 @@
+body{
+    font: normal 15pt arial;
+    background-color: rgb(15, 78, 160);
+}
+
+header{
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+
+
+section{
+    background: rgb(248, 248, 248);
+    border-radius: 15px;
+    width: 500px;
+    padding: 15px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 3px rgb(230, 220, 220);
+    margin: auto;
+    font-weight: 600;
+    box-shadow: 5px 5px 15px black;
+}
+ 
+input{
+   border-radius: 1px;
+   
+}
+
+
+footer{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
+#foto{
+    border-radius: 20px;
+    width: 200px;
+}
+
+#button{
+    background-color: rgba(252, 79, 11, 0.856);
+    padding: 8px;
+    width: 100px;
+    font-weight: 800;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.texto{
+    border-color: red;
+    border-radius: 3px;
+}
