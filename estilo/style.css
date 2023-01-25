@@ -13,7 +13,7 @@ header{
 section{
     background: rgb(248, 248, 248);
     border-radius: 15px;
-    width: 500px;
+    max-width: 500px;
     padding: 15px;
     text-align: center;
     color: rgb(0, 0, 0);
